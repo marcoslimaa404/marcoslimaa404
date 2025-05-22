@@ -1,5 +1,5 @@
 
-# Olá Mundo! 👋
+# Olá mundo! 👋
 
 Desenvolvedor RPA Júnior com formação técnica em programação, experiência prática em automação com Python e programação orientada a objetos com C# e C++.
 
@@ -7,11 +7,11 @@ Desenvolvedor RPA Júnior com formação técnica em programação, experiência
 - Familiaridade com metodologias ágeis como Scrum e Kanban.
 - Experiência com as engines Unity e Unreal.
 
-## 🚀 Projeto em Destaque
+## 🚀 Projeto em destaque
 
 ### [Consulta automatizada de CNPJs + envio por e-mail](https://github.com/marcoslimaa404/consulta-cpnj-automacao)
 
-Projeto completo com Python que:
+Projeto completo em Python que:
 - Lê uma lista de CNPJs via CSV  
 - Consulta os dados usando a BrasilAPI  
 - Gera uma planilha `.xlsx` com os resultados  

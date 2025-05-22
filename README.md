@@ -27,6 +27,8 @@ Projeto completo em Python que:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslimaa404&layout=compact&langs_count=6&theme=tokyonight)
+
 ## 📫 Contato
 
 - LinkedIn: [linkedin.com/in/marcoslimaa404](https://www.linkedin.com/in/marcoslimaa404)  

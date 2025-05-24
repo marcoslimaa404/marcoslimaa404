@@ -17,7 +17,7 @@ Projeto completo em Python que:
 - Gera uma planilha `.xlsx` com os resultados  
 - Envia o relatório final automaticamente por e-mail
 
-> Desenvolvido inteiramente em um dispositivo Android como um desafio pessoal. Código aberto no GitHub.
+> Desenvolvido inteiramente em um dispositivo Android como um desafio pessoal.
 
 ## 🤖 Tecnologias
 

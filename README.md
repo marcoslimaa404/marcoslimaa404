@@ -12,7 +12,7 @@ Desenvolvedor RPA Júnior com formação técnica em programação, experiência
 ### [Consulta de CNPJs + envio automatizado por e-mail](https://github.com/marcoslimaa404/consulta-cpnj-automacao)
 
 Projeto completo em Python que:
-- Lê uma lista de CNPJs via CSV  
+- Lê uma lista de CNPJs via `.csv`  
 - Consulta os dados usando a BrasilAPI  
 - Gera uma planilha `.xlsx` com os resultados  
 - Envia o relatório final automaticamente por e-mail

@@ -9,7 +9,7 @@ Desenvolvedor RPA Júnior com formação técnica em programação, experiência
 
 ## 🚀 Projeto em destaque
 
-### [Consulta automatizada de CNPJs + envio por e-mail](https://github.com/marcoslimaa404/consulta-cpnj-automacao)
+### [Consulta de CNPJs + envio automatizado por e-mail](https://github.com/marcoslimaa404/consulta-cpnj-automacao)
 
 Projeto completo em Python que:
 - Lê uma lista de CNPJs via CSV  

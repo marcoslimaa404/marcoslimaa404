@@ -4,7 +4,7 @@ Desenvolvedor com foco em C#, C++ e Python, com experiência em integração de 
 
 ## 🚀 Projeto em destaque
 
-### [Consulta de CNPJs + envio automatizado por e-mail](https://github.com/marcoslimaa404/consulta-cpnj-automacao)
+### [Consulta de CNPJs + envio automático por e-mail](https://github.com/marcoslimaa404/consulta-cpnj-automacao)
 
 Projeto em Python que:
 - Lê uma lista de CNPJs via `.csv`  

@@ -33,9 +33,3 @@ Projeto completo em Python que:
 
 - LinkedIn: [linkedin.com/in/marcoslimaa404](https://www.linkedin.com/in/marcoslimaa404)  
 - E-mail: marcoslimaa404@gmail.com
-
----
-
-Obrigado por visitar meu perfil!
-
----

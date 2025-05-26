@@ -32,4 +32,5 @@ Projeto completo em Python que:
 ## 📫 Contato
 
 [LinkedIn](https://linkedin.com/in/marcoslimaa404/)
+
 [E-mail](mailto:marcoslimaa404@gmail.com)

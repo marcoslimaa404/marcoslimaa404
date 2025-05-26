@@ -13,7 +13,7 @@ Desenvolvedor com foco em C#, C++ e Python, com experiência em APIs REST e SQL.
 Projeto em Python que:
 - Lê uma lista de CNPJs via `.csv`  
 - Consulta os dados usando a BrasilAPI  
-- Gera uma planilha `.xlsx` com os resultados  
+- Gera uma planilha `.xlsx` com os dados obtidos  
 - Envia essa planilha automaticamente pelo e-mail configurado
 > Desenvolvido inteiramente em um celular Android.
 

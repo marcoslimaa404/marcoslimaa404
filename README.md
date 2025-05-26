@@ -1,9 +1,6 @@
 # Hello world 👾
 
-Desenvolvedor com foco em C#, C++ e Python, com experiência em APIs REST e SQL.
-
-- Experiência em metodologias ágeis como Scrum e Kanban.
-- Experiência com as engines Unity e Unreal.
+Desenvolvedor com foco em C#, C++ e Python, com experiência em integração de APIs REST, bancos SQL, metodologias ágeis como Scrum e Kanban e também com as game engines Unity 6 e Unreal Engine 5.
 
 ## 🚀 Projeto em destaque
 

@@ -1,10 +1,9 @@
 
 # Olá mundo! 👋
 
-Desenvolvedor RPA Júnior com formação técnica em programação, experiência prática em automação com Python e programação orientada a objetos com C# e C++.
+Desenvolvedor com foco em C#, C++ e Python, com experiência em APIs REST e SQL.
 
-- Experiência em integração com APIs.  
-- Familiaridade com metodologias ágeis como Scrum e Kanban.
+- Experiência em metodologias ágeis como Scrum e Kanban.
 - Experiência com as engines Unity e Unreal.
 
 ## 🚀 Projeto em destaque
@@ -32,5 +31,5 @@ Projeto completo em Python que:
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/marcoslimaa404](https://www.linkedin.com/in/marcoslimaa404)  
-- E-mail: marcoslimaa404@gmail.com
+[LinkedIn](https://linkedin.com/in/marcoslimaa404/)
+[E-mail](mailto:marcoslimaa404@gmail.com)

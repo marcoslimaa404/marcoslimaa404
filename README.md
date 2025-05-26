@@ -17,7 +17,7 @@ Projeto em Python que:
 - Envia essa planilha automaticamente pelo e-mail configurado
 > Desenvolvido inteiramente em um celular Android.
 
-## 🤖 Tecnologias
+## 💻 Tecnologias
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)

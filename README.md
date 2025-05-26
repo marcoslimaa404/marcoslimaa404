@@ -1,5 +1,4 @@
-
-# Hello world! 👾
+# Hello world 👾
 
 Desenvolvedor com foco em C#, C++ e Python, com experiência em APIs REST e SQL.
 
